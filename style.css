@@ -4,7 +4,7 @@
 body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.65 Georgia,"Times New Roman",serif}
 header,main,footer{max-width:720px;margin:0 auto;padding:0 20px}
 header{padding-top:40px;padding-bottom:12px;border-bottom:1px solid var(--line)}
-.brand{font:700 15px/1 system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--fg);text-decoration:none}
+.brand{font:700 15px/1 system-ui,sans-serif;letter-spacing:.02em;color:var(--fg);text-decoration:none}
 nav{margin-top:14px;font:15px system-ui,sans-serif}
 nav a{color:var(--muted);margin-right:18px;text-decoration:none}
 nav a:hover,nav a[aria-current]{color:var(--accent)}
